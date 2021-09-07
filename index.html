@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <center>
+            <div id="inputForm">
+                <a href="https://www.sogang.ac.kr" target="_blank"
+                    ><img src="/images/sogang.png"
+                /></a>
+                <h1>Welcome to Sogang notification</h1>
+
+                <form
+                    id="myform"
+                    name="frm"
+                    onsubmit="return false;"
+                    method="POST"
+                >
+                    <input
+                        type="text"
+                        placeholder="ex) 도서관"
+                        name="input"
+                        id="textinput"
+                    />
+                    <input
+                        type="button"
+                        value="Submit"
+                        id="bt"
+                        onclick="check(); return false;"
+                    />
+                    <p>
+                        <input type="checkbox" name="ckb" value="1" />장학
+                        <input type="checkbox" name="ckb" value="2" />일반
+                        <input type="checkbox" name="ckb" value="3" />학사
+                        <input type="checkbox" name="ckb" value="4" />코로나
+                    </p>
+                </form>
+            </div>
+
+            <table id="display">
+                <thead>
+                    <tr>
+                        <th>공지사항</th>
+                        <th>제목</th>
+                        <th>등록일</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--  -->
+                </tbody>
+            </table>
+        </center>
+        <script src="/src/checkInput.js"></script>
+    </body>
+</html>
