@@ -4,6 +4,8 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Document</title>
+        <script src="/src/checkInput.js"></script>
+        <script src="/src/getResult.js"></script>
     </head>
     <body>
         <center>
@@ -29,7 +31,7 @@
                         type="button"
                         value="Submit"
                         id="bt"
-                        onclick="check(); return false;"
+                        onclick="check()"
                     />
                     <p>
                         <input type="checkbox" name="ckb" value="1" />장학
@@ -53,6 +55,5 @@
                 </tbody>
             </table>
         </center>
-        <script src="/src/checkInput.js"></script>
     </body>
 </html>
