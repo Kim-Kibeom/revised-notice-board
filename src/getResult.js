@@ -1,5 +1,5 @@
 const search = async (searchWord, filename) => {
-    const filepath = "./result_scrapping/" + filename;
+    const filepath = "./src/result_scrapping/" + filename;
     const raw = await fetch(filepath);
     const response = await raw.text();
 
