@@ -46,15 +46,24 @@ const save = async (url, filename) => {
 
         const data = getDomData($, page);
 
-        if (fs.existsSync("./result_scrapping/" + filename)) {
+        if (
+            fs.existsSync(
+                "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/" +
+                    filename
+            )
+        ) {
             fs.appendFileSync(
-                "./result_scrapping/" + filename,
+                "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/" +
+                    filename,
                 data[1],
                 (err) => console.log(err)
             );
         } else {
-            fs.writeFileSync("./result_scrapping/" + filename, data[1], (err) =>
-                console.log(err)
+            fs.writeFileSync(
+                "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/" +
+                    filename,
+                data[1],
+                (err) => console.log(err)
             );
         }
         if (data[0] == false) {
@@ -64,30 +73,54 @@ const save = async (url, filename) => {
 };
 
 const initiateFile = () => {
-    if (fs.existsSync("./result_scrapping/scholarship.txt")) {
+    if (
+        fs.existsSync(
+            "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/scholarship.txt"
+        )
+    ) {
         try {
-            fs.unlinkSync("./result_scrapping/scholarship.txt");
+            fs.unlinkSync(
+                "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/scholarship.txt"
+            );
         } catch (err) {
             console.log(err);
         }
     }
-    if (fs.existsSync("./result_scrapping/covid.txt")) {
+    if (
+        fs.existsSync(
+            "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/covid.txt"
+        )
+    ) {
         try {
-            fs.unlinkSync("./result_scrapping/covid.txt");
+            fs.unlinkSync(
+                "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/covid.txt"
+            );
         } catch (err) {
             console.log(err);
         }
     }
-    if (fs.existsSync("./result_scrapping/student.txt")) {
+    if (
+        fs.existsSync(
+            "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/student.txt"
+        )
+    ) {
         try {
-            fs.unlinkSync("./result_scrapping/student.txt");
+            fs.unlinkSync(
+                "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/student.txt"
+            );
         } catch (err) {
             console.log(err);
         }
     }
-    if (fs.existsSync("./result_scrapping/general.txt")) {
+    if (
+        fs.existsSync(
+            "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/general.txt"
+        )
+    ) {
         try {
-            fs.unlinkSync("./result_scrapping/general.txt");
+            fs.unlinkSync(
+                "/Users/dd/Desktop/practice/revised-notice-board/src/result_scrapping/general.txt"
+            );
         } catch (err) {
             console.log(err);
         }
