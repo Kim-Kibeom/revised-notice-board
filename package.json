@@ -1,24 +1,24 @@
 {
-  "name": "revised-notice-board",
-  "version": "1.0.0",
-  "description": "",
-  "main": "scrapper.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/keyBomb/revised-notice-board.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/keyBomb/revised-notice-board/issues"
-  },
-  "homepage": "https://github.com/keyBomb/revised-notice-board#readme",
-  "dependencies": {
-    "axios": "^0.21.4",
-    "cheerio": "^1.0.0-rc.10"
-  }
+    "name": "revised-notice-board",
+    "version": "1.0.0",
+    "description": "",
+    "main": "scrapper.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/keyBomb/revised-notice-board.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/keyBomb/revised-notice-board/issues"
+    },
+    "homepage": "https://github.com/keyBomb/revised-notice-board#readme",
+    "dependencies": {
+        "axios": "^0.21.4",
+        "cheerio": "^1.0.0-rc.10"
+    }
 }
