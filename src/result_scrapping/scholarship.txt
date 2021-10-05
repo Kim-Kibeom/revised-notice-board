@@ -1,5 +1,5 @@
 http://www.sogang.ac.kr/front/boardview.do?pkid=530137&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 천주교 서울대교구 생명위원회 인재양성장학금 (12/31 마감, 최대 250만원) || 2021.10.05
-http://www.sogang.ac.kr/front/boardview.do?pkid=530106&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [대출] 학자금 대출이자 지원 안내(김제시, 통영시)_10/5추가 || 2021.10.01
+http://www.sogang.ac.kr/front/boardview.do?pkid=530106&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [대출] 학자금 대출이자 지원 안내(김제시, 통영시, 영주시)_10/5추가 || 2021.10.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=530025&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 대산농촌재단 농업리더 장학생 선발(11/16 마감, 등록금 전액) || 2021.09.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=530007&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 젊은당뇨인 희망장학금 (10/24 마감, 장학금 150만원) || 2021.09.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=529964&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 한국문화재재단 장학생 선발(10/11 마감, 등록금 150만원) || 2021.09.24
