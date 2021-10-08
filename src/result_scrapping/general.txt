@@ -1,6 +1,6 @@
 http://www.sogang.ac.kr/front/boardview.do?pkid=530190&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원센터] ZOOM 포커스 모드 이용 매뉴얼 || 2021.10.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=530176&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [이공계열 학부생 대상] 2021-2 총장과의 대화 안내 (비대면 온라인) || 2021.10.07
-http://www.sogang.ac.kr/front/boardview.do?pkid=530172&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학생지원팀] 서강대학교 패넌트 공모전 || 2021.10.06
+http://www.sogang.ac.kr/front/boardview.do?pkid=530172&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학생지원팀] 서강대학교 페넌트 공모전 || 2021.10.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=530140&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 2021 서강이 만들어가는 세상 Untact 참가팀 선정 공고 || 2021.10.05
 http://www.sogang.ac.kr/front/boardview.do?pkid=530103&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [인사총무팀] 교내 구성원(특히 보직자) 사칭 보이스피싱 주의 안내 || 2021.10.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=530088&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 2021 서강대학교 ZOOM 가상배경 이미지 배포 안내 || 2021.09.30
