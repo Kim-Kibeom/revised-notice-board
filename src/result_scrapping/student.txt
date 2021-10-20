@@ -17,7 +17,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529132&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528710&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 교양 및 전공 필수 교과목 대체 인정 안내(학칙 시행세칙 제32조2) || 2021.07.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=528572&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 폐강 기준 변경 안내 || 2021.06.22
 http://www.sogang.ac.kr/front/boardview.do?pkid=527453&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류] 교류대학별 공지관련 유의사항 || 2021.04.15
-http://www.sogang.ac.kr/front/boardview.do?pkid=530312&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 동계학기 서울대학교 학점교류 안내 || 2021.10.14
+http://www.sogang.ac.kr/front/boardview.do?pkid=530312&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 동계학기 서울대학교 학점교류 안내 || 2021.10.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=530277&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021학년도 2학기 중 강의평가 실시 안내 || 2021.10.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=530049&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정 공고 || 2021.09.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=529816&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 전기통신금융사기 피해 예방 안내 || 2021.09.13
