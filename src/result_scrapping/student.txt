@@ -2,7 +2,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530525&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530504&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청] 2021 동계 계절학기 수강신청 안내 || 2021.10.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=530463&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || KT 전산망 문제에 따른 금일(10월 25일(월)) 중간고사 연기 안내(수정 17시10분) || 2021.10.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=530415&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 수업 운영(대면/비대면수업) 변경 안내(중간고사 이후) || 2021.10.20
-http://www.sogang.ac.kr/front/boardview.do?pkid=530394&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공]  2021학년도 2학기 전공신청 및 변경 안내 || 2021.10.19
+http://www.sogang.ac.kr/front/boardview.do?pkid=530394&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공]  2021학년도 2학기 전공신청 및 변경 안내 (11.1.(월) 09시 ~ 11.12.(금)) || 2021.10.19
 http://www.sogang.ac.kr/front/boardview.do?pkid=530392&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 2학기 학생설계전공 신청 안내 || 2021.10.19
 http://www.sogang.ac.kr/front/boardview.do?pkid=530385&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 2학기 학생설계전공 컨설팅 신청 안내 || 2021.10.19
 http://www.sogang.ac.kr/front/boardview.do?pkid=530334&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부_교직] 2021 교직과정 이수 신청 및 설명회 · 임용시험 합격선배 특강 안내 || 2021.10.15
