@@ -21,7 +21,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529132&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528710&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 교양 및 전공 필수 교과목 대체 인정 안내(학칙 시행세칙 제32조2) || 2021.07.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=528572&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 폐강 기준 변경 안내 || 2021.06.22
 http://www.sogang.ac.kr/front/boardview.do?pkid=527453&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류] 교류대학별 공지관련 유의사항 || 2021.04.15
-http://www.sogang.ac.kr/front/boardview.do?pkid=530578&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 동계학기 연세대학교 학점교류 안내 || 2021.11.01
+http://www.sogang.ac.kr/front/boardview.do?pkid=530578&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 연세대학교 학점교류 안내 || 2021.11.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=530577&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 성균관대학교 학점교류 안내 || 2021.11.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=530522&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 부산대학교 학점교류 안내 || 2021.10.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=530312&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 동계학기 서울대학교 학점교류 안내 || 2021.10.14
