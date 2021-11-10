@@ -5,7 +5,6 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530504&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530415&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 수업 운영(대면/비대면수업) 변경 안내(중간고사 이후) || 2021.10.20
 http://www.sogang.ac.kr/front/boardview.do?pkid=530394&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공]  2021학년도 2학기 전공신청 및 변경 안내 (11.1.(월) 09시 ~ 11.12.(금)) || 2021.10.19
 http://www.sogang.ac.kr/front/boardview.do?pkid=530392&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 2학기 학생설계전공 신청 안내 || 2021.10.19
-http://www.sogang.ac.kr/front/boardview.do?pkid=530385&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 2학기 학생설계전공 컨설팅 신청 안내 || 2021.10.19
 http://www.sogang.ac.kr/front/boardview.do?pkid=530334&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부_교직] 2021 교직과정 이수 신청 및 설명회 · 임용시험 합격선배 특강 안내 || 2021.10.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=530295&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 시험 부정행위자에 대한 처리 안내 || 2021.10.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=529435&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2022년 2월 졸업예정 처리 안내 || 2021.08.25
@@ -17,6 +16,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529132&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528710&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 교양 및 전공 필수 교과목 대체 인정 안내(학칙 시행세칙 제32조2) || 2021.07.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=528572&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 폐강 기준 변경 안내 || 2021.06.22
 http://www.sogang.ac.kr/front/boardview.do?pkid=527453&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류] 교류대학별 공지관련 유의사항 || 2021.04.15
+http://www.sogang.ac.kr/front/boardview.do?pkid=530786&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 2학기 학생설계전공 컨설팅 신청 안내(~11.12,금) || 2021.11.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=530732&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 한국외국어대학교 학점교류 안내 || 2021.11.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=530731&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 이화여자대학교 학점교류 안내 || 2021.11.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=530726&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 가톨릭대학교 학점교류 안내 || 2021.11.08
@@ -26,7 +26,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530577&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530522&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 동계학기 부산대학교 학점교류 안내 || 2021.10.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=530463&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || KT 전산망 문제에 따른 금일(10월 25일(월)) 중간고사 연기 안내(수정 17시10분) || 2021.10.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=530312&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 동계학기 서울대학교 학점교류 안내 || 2021.10.14
-http://www.sogang.ac.kr/front/boardview.do?pkid=530278&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 중간시험 비대면시험 강의실 안내 || 2021.10.13
+http://www.sogang.ac.kr/front/boardview.do?pkid=530278&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 중간시험 비대면시험 강의실 안내 || 2021.10.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=530277&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021학년도 2학기 중 강의평가 실시 안내 || 2021.10.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=530049&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정 공고 || 2021.09.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=529905&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 수업 운영(대면/비대면수업) 변경 안내(10월 5일 이후) || 2021.09.17
@@ -36,7 +36,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529772&currentPage=2&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=529702&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 2학기 학부 개설과목 폐강 안내 || 2021.09.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=529618&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청] 일반물리실험II 수강신청 공지사항(2021-2학기) || 2021.09.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=529525&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 2학기 강의실 배정 안내 || 2021.08.30
-http://www.sogang.ac.kr/front/boardview.do?pkid=529510&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021학년도 2학기 군이러닝 학점인정 신청 공지(09.01~09.30) || 2021.08.30
+http://www.sogang.ac.kr/front/boardview.do?pkid=529510&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021학년도 2학기 군이러닝 학점인정 신청 공지(09.01~09.30) || 2021.08.30
 http://www.sogang.ac.kr/front/boardview.do?pkid=529370&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정(안) 사전 공고 || 2021.08.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=529332&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021-2학기 외국인 편입생 전공과목 및 중핵과목 사정 결과 및 이의신청 안내 || 2021.08.20
 http://www.sogang.ac.kr/front/boardview.do?pkid=529244&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 수강신청과목 담아놓기 경쟁률 공지 || 2021.08.12
@@ -56,7 +56,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529011&currentPage=4&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528981&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 학부 등록금 납부 안내 || 2021.07.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=528951&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 2학기 이화여자대학교 학점교류 안내 || 2021.07.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=528908&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 군이러닝 시행 관련 공지 || 2021.07.19
-http://www.sogang.ac.kr/front/boardview.do?pkid=528903&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 2학기 성균관대학교 학점교류 안내 || 2021.07.16
+http://www.sogang.ac.kr/front/boardview.do?pkid=528903&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 2학기 성균관대학교 학점교류 안내 || 2021.07.16
 http://www.sogang.ac.kr/front/boardview.do?pkid=528902&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 2학기 가톨릭대학교 학점교류 안내 || 2021.07.16
 http://www.sogang.ac.kr/front/boardview.do?pkid=528850&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 2학기 한동대학교 학점교류 안내 || 2021.07.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=528835&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 성적 포함 성적증명서 발급 안내 || 2021.07.13
@@ -66,7 +66,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528828&currentPage=5&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528786&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 2학기 한국외국어대학교 학점교류 안내 || 2021.07.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=528656&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 학점등록 신청 안내(SAINT portal에서 신청) || 2021.07.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=528646&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부]★2021학년도 2학기 휴학 안내★ || 2021.06.30
-http://www.sogang.ac.kr/front/boardview.do?pkid=528638&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부]★2021학년도 2학기 복학 안내★ || 2021.06.29
+http://www.sogang.ac.kr/front/boardview.do?pkid=528638&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부]★2021학년도 2학기 복학 안내★ || 2021.06.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=528606&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [대학원] 2021학년도 하계 학부대학원 연계과정 학생 선발 안내 || 2021.06.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=528586&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 2학기 서울대학교 학점교류 안내(수정_2021.07.06) || 2021.06.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=528569&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 군이러닝 학점인정 절차 안내 || 2021.06.22
@@ -76,7 +76,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528491&currentPage=6&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528489&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청] (수정: 9.2일 17시10분기준)2021학년도 2학기 개설교과목 변경사항 안내 || 2021.06.16
 http://www.sogang.ac.kr/front/boardview.do?pkid=528469&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정 공고 || 2021.06.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=528399&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 하계학기 학부 개설과목 폐강 안내 || 2021.06.09
-http://www.sogang.ac.kr/front/boardview.do?pkid=528387&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 1학기 전공신청 및 변경 안내 || 2021.06.08
+http://www.sogang.ac.kr/front/boardview.do?pkid=528387&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 1학기 전공신청 및 변경 안내 || 2021.06.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=528377&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기말 학부 강의평가 실시 안내 || 2021.06.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=528299&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 재입학 신청 공고 || 2021.06.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=528298&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 대면수업의 전면 비대면 기간 연장 안내(~6.14(월)까지) || 2021.06.01
@@ -86,7 +86,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528238&currentPage=7&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528183&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 대면수업 전면 비대면 전환 안내(21.5.25~21.6.7) || 2021.05.24
 http://www.sogang.ac.kr/front/boardview.do?pkid=528016&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 하계학기 연세대학교 학점교류 안내 || 2021.05.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=527975&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 하계학기 한국외국어대학교 학점교류 안내 || 2021.05.12
-http://www.sogang.ac.kr/front/boardview.do?pkid=527954&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 2학기 수업운영 안내 || 2021.05.11
+http://www.sogang.ac.kr/front/boardview.do?pkid=527954&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 2학기 수업운영 안내 || 2021.05.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=527928&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정(안) 사전 공고 || 2021.05.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=527806&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 하계학기 이화여자대학교 학점교류 안내 || 2021.05.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=527802&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 하계 계절학기 수업운영 안내 || 2021.05.03
@@ -96,7 +96,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=527555&currentPage=8&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=527550&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 하계학기 부산대학교 학점교류 안내(일정 수정) || 2021.04.22
 http://www.sogang.ac.kr/front/boardview.do?pkid=527520&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 1학기 학생설계전공 신청 안내 || 2021.04.20
 http://www.sogang.ac.kr/front/boardview.do?pkid=527519&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 1학기 학생설계전공 컨설팅 신청 안내 || 2021.04.20
-http://www.sogang.ac.kr/front/boardview.do?pkid=527518&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 하계학기 성균관대학교 학점교류 안내(기한 수정) || 2021.04.20
+http://www.sogang.ac.kr/front/boardview.do?pkid=527518&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 하계학기 성균관대학교 학점교류 안내(기한 수정) || 2021.04.20
 http://www.sogang.ac.kr/front/boardview.do?pkid=527455&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 하계학기 서울대학교 학점교류 안내 || 2021.04.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=527449&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021학년도 1학기 중 강의평가 실시 안내 || 2021.04.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=527443&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 하계학기, 2학기 수업방식 설문조사 안내 || 2021.04.14
@@ -106,7 +106,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=527152&currentPage=9&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=527109&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 대면수업 전면 비대면 전환 안내(21.3.26~21.4.9) || 2021.03.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526930&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 하계 계절수업 수요조사 안내(3.12~3.18) || 2021.03.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=526855&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 1학기 학부 개설과목 폐강 안내 || 2021.03.08
-http://www.sogang.ac.kr/front/boardview.do?pkid=526657&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 편입생(외국인/일반/학사) 전공과목 및 공통필수(선택)과목 사정 결과 이의신청 안내 || 2021.02.26
+http://www.sogang.ac.kr/front/boardview.do?pkid=526657&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 편입생(외국인/일반/학사) 전공과목 및 공통필수(선택)과목 사정 결과 이의신청 안내 || 2021.02.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=526648&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021년 8월 졸업예정 처리 안내 || 2021.02.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=526632&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 1학기 대면수업 방역 안내 || 2021.02.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526611&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙개정공고 || 2021.02.24
@@ -126,7 +126,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526403&currentPage=11&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=526371&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 군이러닝 시행 관련 공지 || 2021.02.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=526370&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 편입생(일반/학사) 오리엔테이션 및 전공/공통필수과목 사정 안내 || 2021.02.04
 http://www.sogang.ac.krjavascript:void(0); || 2020학년도 전기 졸업 학위증 배부 및 학위가운 대여 안내 || 2021.02.03
-http://www.sogang.ac.kr/front/boardview.do?pkid=526363&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 1학기 휴강공고 || 2021.02.03
+http://www.sogang.ac.kr/front/boardview.do?pkid=526363&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 1학기 휴강공고 || 2021.02.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=526325&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2020학년도 동계계절학기 포함 성적증명서 발급 안내(2월 1일(월) 14:00 예정) || 2021.01.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=526321&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 학부 등록금 납부 안내 || 2021.01.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=526301&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [교육과정] 2021학년도 1학기 교육과정 변경사항 안내(수정_210223) || 2021.01.28
@@ -136,7 +136,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526274&currentPage=12&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=526270&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 외국인 편입생 오리엔테이션 및 전공/공통필수과목 사정 안내 || 2021.01.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526269&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2020학년도 동계 학부대학원 연계과정(추가전형) 학생 선발 안내 || 2021.01.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526267&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학위가운 대여 및 반납 사전 수요조사 실시 안내(학부생만 해당) || 2021.01.25
-http://www.sogang.ac.kr/front/boardview.do?pkid=526263&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 이화여자대학교 학점교류 신청 안내 || 2021.01.25
+http://www.sogang.ac.kr/front/boardview.do?pkid=526263&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 이화여자대학교 학점교류 신청 안내 || 2021.01.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526262&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 1학기 대면수업 리스트 안내 (수정_210413) || 2021.01.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526261&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 카톨릭대학교 학점교류 신청 안내 || 2021.01.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526260&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 한동대학교 학점교류 신청 안내 || 2021.01.25
@@ -146,7 +146,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526137&currentPage=13&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=526122&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2020학년도 2학기 성적 포함 성적증명서 발급 안내 || 2021.01.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=526119&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 부산대학교 학점교류 안내 || 2021.01.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=526117&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 고려대학교 학점교류 안내 || 2021.01.12
-http://www.sogang.ac.kr/front/boardview.do?pkid=526098&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 한국외국어대학교 학점교류 안내 || 2021.01.11
+http://www.sogang.ac.kr/front/boardview.do?pkid=526098&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 1학기 한국외국어대학교 학점교류 안내 || 2021.01.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=526097&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류] 교류대학별 공지관련 유의사항 || 2021.01.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=526052&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 1학기 수업운영 안내 (수정_210201) || 2021.01.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=525947&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 1학기 휴학 안내 || 2020.12.30
@@ -156,4 +156,3 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=525875&currentPage=14&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=525858&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청] 2021학년도 1학기 개설교과목 관련 안내(수정_210308) || 2020.12.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=525690&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2020학년도 동계학기 개설과목 폐강 안내(수정_210104) || 2020.12.16
 http://www.sogang.ac.kr/front/boardview.do?pkid=525633&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학사학위취득유예자의 졸업 신청 안내 || 2020.12.14
-http://www.sogang.ac.kr/front/boardview.do?pkid=525631&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 졸업연기 및 학사학위취득유예 신청 안내(재학생) || 2020.12.14
