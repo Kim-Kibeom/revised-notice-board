@@ -1,3 +1,4 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=530820&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [교직] 2021학년도 교직과정 추가 선발 안내 || 2021.11.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=530791&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청] 2021학년도 동계 계절학기 개설교과목 변경사항 안내 || 2021.11.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=530790&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 동계 계절학기 수업 운영 안내 || 2021.11.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=530676&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정(안) 사전 공고 || 2021.11.04
@@ -21,10 +22,10 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=527453&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530786&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [전공] 2021학년도 2학기 학생설계전공 컨설팅 신청 안내(~11.12,금) || 2021.11.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=530732&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 한국외국어대학교 학점교류 안내 || 2021.11.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=530731&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 이화여자대학교 학점교류 안내 || 2021.11.08
-http://www.sogang.ac.kr/front/boardview.do?pkid=530726&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 가톨릭대학교 학점교류 안내 || 2021.11.08
+http://www.sogang.ac.kr/front/boardview.do?pkid=530726&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 동계학기 가톨릭대학교 학점교류 안내 || 2021.11.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=530668&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 고려대학교 학점교류 안내 || 2021.11.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=530578&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 동계학기 연세대학교 학점교류 안내 || 2021.11.01
-http://www.sogang.ac.kr/front/boardview.do?pkid=530577&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 성균관대학교 학점교류 안내 || 2021.11.01
+http://www.sogang.ac.kr/front/boardview.do?pkid=530577&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 동계학기 성균관대학교 학점교류 안내 || 2021.11.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=530522&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 동계학기 부산대학교 학점교류 안내 || 2021.10.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=530463&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || KT 전산망 문제에 따른 금일(10월 25일(월)) 중간고사 연기 안내(수정 17시10분) || 2021.10.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=530312&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2021학년도 동계학기 서울대학교 학점교류 안내 || 2021.10.14
