@@ -1,3 +1,5 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=530929&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 2021년 11월 월페이퍼 배경 이미지 배포 안내 || 2021.11.18
+http://www.sogang.ac.kr/front/boardview.do?pkid=530928&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 제7회 알바트로스 자기설계 로드맵전 수상자 발표 || 2021.11.18
 http://www.sogang.ac.kr/front/boardview.do?pkid=530873&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [법학연구소] 『법과 기업연구』 제11권 제3호 원고모집 연장안내 || 2021.11.16
 http://www.sogang.ac.kr/front/boardview.do?pkid=530866&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [장애학생지원센터] 장애인식개선 교육 이수 안내 || 2021.11.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=530840&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학생지원팀] 학생선택형 평생지도교수제도 시행 안내 || 2021.11.12
@@ -13,7 +15,6 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530735&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530653&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 메타버스로 진행되는 국제학생 적성탐색 프로그램 <My Interest> 신청안내 || 2021.11.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=530608&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원센터] 클라우드(구글, MS) 통합 서비스 시범운영 안내 || 2021.11.02
 http://www.sogang.ac.kr/front/boardview.do?pkid=530600&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학생생활상담연구소] 홈페이지 사진 공모 안내(~12/6) || 2021.11.01
-http://www.sogang.ac.kr/front/boardview.do?pkid=530502&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [바이오사업단] 제15회 2급 및 제16회 1급 바이오기술투자분석사 대비 교육 및 시험 안내 || 2021.10.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=530362&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원센터] ZOOM에서 사용자 얼굴없이 녹화하는 설정 매뉴얼 || 2021.10.18
 http://www.sogang.ac.kr/front/boardview.do?pkid=530280&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 제 6회 국제학생 전용 글로벌 알바트로스 자기설계 로드맵전 진행 안내 || 2021.10.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=530251&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처] 공식 온라인 저널 Sogang Gazette 5기 기자단 모집 || 2021.10.12
@@ -33,11 +34,12 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530575&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530538&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [입학팀] 2022학년도 논술시험 감독보조원(대학원생) 모집 || 2021.10.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=530537&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [입학팀] 2022학년도 입학처 단기(1주일) 근로학생(학부생) 모집 || 2021.10.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=530523&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [정보통신원] SAINT 시스템 점검작업에 따른 교내 서비스 중단 안내 || 2021.10.27
+http://www.sogang.ac.kr/front/boardview.do?pkid=530502&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [바이오사업단] 제15회 2급 및 제16회 1급 바이오기술투자분석사 대비 교육 및 시험 안내 || 2021.10.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=530483&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 2021 스타트업 온라인 채용박람회 : 서류 접수중(~11/14) || 2021.10.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=530459&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [입학처] 2022학년도 수시모집 단기 남학생 근로학생(학부생) 모집(~10/28) || 2021.10.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=530423&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 2021년 서강대학교 정규직(신입) 채용 2단계 합격자 발표 || 2021.10.21
 http://www.sogang.ac.kr/front/boardview.do?pkid=530422&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대학혁신추진단] 2021 서강대학교 대학혁신지원사업 서포터즈 모집 연장(~10/31) || 2021.10.21
-http://www.sogang.ac.kr/front/boardview.do?pkid=530420&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 온라인 간담회 선배 멘토 모집(~10/29) || 2021.10.21
+http://www.sogang.ac.kr/front/boardview.do?pkid=530420&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 온라인 간담회 선배 멘토 모집(~10/29) || 2021.10.21
 http://www.sogang.ac.kr/front/boardview.do?pkid=530419&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2021 '서강 가족을 위한 위령 미사' 안내(11/2) || 2021.10.21
 http://www.sogang.ac.kr/front/boardview.do?pkid=530416&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 서강대학교 계약직원(일반행정) 채용 공고 || 2021.10.20
 http://www.sogang.ac.kr/front/boardview.do?pkid=530367&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [메타버스전문대학원] 근로장학생 모집(~10/21) || 2021.10.19
@@ -52,7 +54,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530283&currentPage=2&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530250&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처] ‘서강이, 서강에게’ 정문 현수막 프로젝트 네 번째 이야기 선정작 안내 || 2021.10.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=530223&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처] 제18기 서강대학교 학생 홍보대사 하늬가람 최종 합격자 공고 || 2021.10.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=530190&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원센터] ZOOM 포커스 모드 이용 매뉴얼 || 2021.10.07
-http://www.sogang.ac.kr/front/boardview.do?pkid=530176&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [이공계열 학부생 대상] 2021-2 총장과의 대화 안내 (비대면 온라인) || 2021.10.07
+http://www.sogang.ac.kr/front/boardview.do?pkid=530176&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [이공계열 학부생 대상] 2021-2 총장과의 대화 안내 (비대면 온라인) || 2021.10.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=530172&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학생지원팀] 서강대학교 페넌트 공모전 || 2021.10.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=530166&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [인문사회계열 학부생 대상]  2021-2 총장과의 대화 안내 (비대면 온라인) || 2021.10.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=530140&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 2021 서강이 만들어가는 세상 Untact 참가팀 선정 공고 || 2021.10.05
@@ -67,7 +69,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530006&currentPage=3&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530005&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 냉방기 가동 중단 관련 안내 || 2021.09.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=529971&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [일반대학원] 2021년도 글로벌 AI 선도형 Sogang-CMU 대학원 인재 양성 사업 교육생 2차 모집 안내 || 2021.09.24
 http://www.sogang.ac.kr/front/boardview.do?pkid=529930&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 제7회 알바트로스 자기설계 로드맵전 멘토-멘티 매칭 결과 발표(수정) || 2021.09.23
-http://www.sogang.ac.kr/front/boardview.do?pkid=529928&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대학혁신추진단] 2021 대학혁신지원사업 서포터즈 모집 공고_1차(~10/8) || 2021.09.23
+http://www.sogang.ac.kr/front/boardview.do?pkid=529928&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대학혁신추진단] 2021 대학혁신지원사업 서포터즈 모집 공고_1차(~10/8) || 2021.09.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=529921&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [곤자자프라자] 국민지원금 사용처 정보 안내 || 2021.09.17
 http://www.sogang.ac.kr/front/boardview.do?pkid=529914&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 입주기업 모집 공고(~9/30) || 2021.09.17
 http://www.sogang.ac.kr/front/boardview.do?pkid=529828&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 서강대학교 전문계약직(웹디자인) 채용 공고 || 2021.09.14
@@ -82,7 +84,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529719&currentPage=4&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=529701&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학군단] 2022년 군 간부 선발 개선사항 공고 || 2021.09.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=529662&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2021년 2학기 개강미사 안내 || 2021.09.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=529650&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 2021년 서강대학교 정규직(신입) 채용 공고(접수기간: 9/7~9/16) || 2021.09.07
-http://www.sogang.ac.kr/front/boardview.do?pkid=529646&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [글쓰기센터] 영문 튜터 모집 공고(~9/17) || 2021.09.06
+http://www.sogang.ac.kr/front/boardview.do?pkid=529646&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [글쓰기센터] 영문 튜터 모집 공고(~9/17) || 2021.09.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=529644&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처] 제18기 서강대학교 학생 홍보대사 하늬가람 선발 공고 || 2021.09.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=529622&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 2021 서강이 만들어가는 세상(재공지) || 2021.09.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=529604&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 2021 서강 마포구 소상공인 온라인 판로지원 개척사업 참가기업 모집 (~10월 1일 금요일) || 2021.09.02
@@ -97,7 +99,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529535&currentPage=5&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=529457&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [총동문회] 서강대학교 총동문회 학생기자단 1기 모집(~9/10) || 2021.08.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=529449&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [정보통신원] 교내 홈페이지 시스템 개선 작업 안내 || 2021.08.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=529439&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [바이오사업단] 제1회 바이오기술투자전략과정 교육생 모집 안내 재공고 || 2021.08.25
-http://www.sogang.ac.kr/front/boardview.do?pkid=529399&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [인성교육센터] 사회봉사 03분반(HSS3002-03) 수업 수강 안내 || 2021.08.24
+http://www.sogang.ac.kr/front/boardview.do?pkid=529399&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [인성교육센터] 사회봉사 03분반(HSS3002-03) 수업 수강 안내 || 2021.08.24
 http://www.sogang.ac.kr/front/boardview.do?pkid=529369&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원센터] 학습자를 위한 MS 팀즈 활용 실시간 수업 일반 매뉴얼 || 2021.08.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=529368&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원센터] 교수자를 위한 MS 팀즈 활용 실시간 수업 일반 매뉴얼 || 2021.08.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=529356&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [취업지원팀] 2021 언택트 취업박람회(9/1-9/15) || 2021.08.23
@@ -112,7 +114,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529242&currentPage=6&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=529233&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] (21-2) 서강 K-MOOC 수강안내 || 2021.08.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=529211&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제팀] 2022-1학기 파견 교환 및 방문학생 선발 공고 (8월 17일 마감) || 2021.08.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=529183&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제팀] 2021학년도 9월 입학 신/편입생 학번 발표 안내 || 2021.08.10
-http://www.sogang.ac.kr/front/boardview.do?pkid=529172&currentPage=6&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [입학팀] 근로장학생 모집(~8/11) || 2021.08.09
+http://www.sogang.ac.kr/front/boardview.do?pkid=529172&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [입학팀] 근로장학생 모집(~8/11) || 2021.08.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=529153&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [성평등센터] 상담교수 초빙 공고(~8/19) || 2021.08.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=529138&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [출판부] 대학원 조교 모집(~8/11) || 2021.08.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=529137&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2021학년도 2학기 교수, 직원을 위한 세례준비반 || 2021.08.09
@@ -127,7 +129,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529010&currentPage=7&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=529002&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 전기설비 정밀점검을 위한 휴전 안내(재공지) || 2021.07.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=528998&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [입학팀] 2021 문서 파쇄 학부 근로학생 모집 || 2021.07.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=528975&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [발전홍보팀] 근로학생 모집 공고(행정업무) || 2021.07.27
-http://www.sogang.ac.kr/front/boardview.do?pkid=528971&currentPage=7&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 주일미사 중단 안내 || 2021.07.26
+http://www.sogang.ac.kr/front/boardview.do?pkid=528971&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 주일미사 중단 안내 || 2021.07.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=528970&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 2021 서강이 만들어가는 세상 || 2021.07.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=528950&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [법학연구소] 『법과 기업연구』 제11권 제2호 원고모집(기간연장) || 2021.07.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=528934&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 은행나무 가지치기 작업으로 인한 보행로 통제 안내(7/26,월) || 2021.07.22
@@ -142,7 +144,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528754&currentPage=8&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528734&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [바이오사업단] 제14회 바이오기술투자분석사 2급 자격증 대비 교육 및 시험 안내 || 2021.07.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=528730&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [곤자가국제학사] 2021학년도 2학기 사생 모집공고 || 2021.07.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=528725&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] (21-하계) 서강 K-MOOC 마이크로강좌 수강안내 || 2021.07.06
-http://www.sogang.ac.kr/front/boardview.do?pkid=528721&currentPage=8&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 하계 혹서기 집중휴무기간 교내 후생복지시설 및 우편실 운영 안내 || 2021.07.06
+http://www.sogang.ac.kr/front/boardview.do?pkid=528721&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 하계 혹서기 집중휴무기간 교내 후생복지시설 및 우편실 운영 안내 || 2021.07.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=528689&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원TFT] 학습자를 위한 구글 클래스룸 활용 실시간 수업 일반 매뉴얼 || 2021.07.05
 http://www.sogang.ac.kr/front/boardview.do?pkid=528686&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원TFT] 교수자를 위한 구글 클래스룸 활용 실시간 수업 일반 매뉴얼 || 2021.07.05
 http://www.sogang.ac.kr/front/boardview.do?pkid=528685&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처 발전홍보팀]  근로학생 모집 공고 || 2021.07.05
@@ -157,7 +159,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528550&currentPage=9&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528541&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [법학연구소] 『법과 기업연구』 제11권 제2호 원고모집 || 2021.06.21
 http://www.sogang.ac.kr/front/boardview.do?pkid=528525&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 2021년 교내 하계 대청소 일정 안내 || 2021.06.17
 http://www.sogang.ac.kr/front/boardview.do?pkid=528523&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대학혁신추진단] 2021년 신촌 지역사회 문제해결을 위한 학생 아이디어 공모전 || 2021.06.17
-http://www.sogang.ac.kr/front/boardview.do?pkid=528508&currentPage=9&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 제5회 국제학생 전용 글로벌 알바트로스 자기설계 로드맵전 최종 수상작 선정 || 2021.06.16
+http://www.sogang.ac.kr/front/boardview.do?pkid=528508&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 제5회 국제학생 전용 글로벌 알바트로스 자기설계 로드맵전 최종 수상작 선정 || 2021.06.16
 http://www.sogang.ac.kr/front/boardview.do?pkid=528507&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 2021 제12회 스타트업 오디션(창업경진대회) || 2021.06.16
 http://www.sogang.ac.kr/front/boardview.do?pkid=528455&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원TFT] 2021학년도 1학기 기말고사 기간 연장지원 안내 || 2021.06.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=528454&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [트랜스내셔널인문학연구소] ‘서강 공공인문학 이니셔티브’ 특강 수강생 모집 안내(기한연장) || 2021.06.14
@@ -172,7 +174,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528356&currentPage=10&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=528345&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] '2021 서강 스타트업 서바이벌' 창업교육 참가자 모집 || 2021.06.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=528343&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || 서강대학교 VISION 2030 선포식 안내 || 2021.06.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=528302&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학생문화처] 서강 서포터즈 모집(~6/10) || 2021.06.02
-http://www.sogang.ac.kr/front/boardview.do?pkid=528291&currentPage=10&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 제7회 교양교과 포트폴리오전 안내(기한연장) || 2021.06.01
+http://www.sogang.ac.kr/front/boardview.do?pkid=528291&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 제7회 교양교과 포트폴리오전 안내(기한연장) || 2021.06.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=528279&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 하절기 냉방 실시 안내 || 2021.05.31
 http://www.sogang.ac.kr/front/boardview.do?pkid=528249&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [﻿총동문회] 근로장학생 모집 안내(~6/4) || 2021.05.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=528236&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 전기설비 정밀점검을 위한 휴전 안내 || 2021.05.27
@@ -187,7 +189,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528015&currentPage=11&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=528014&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [학생지원팀] 학생선택형 평생지도교수제도 시행 안내 || 2021.05.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=528013&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처] ‘서강이,서강에게’(정문 현수막 프로젝트) 두 번째 이야기 || 2021.05.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=528012&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [공공외교사업단] 2021년 제3회 서강대학교 공공외교 아이디어 공모전 || 2021.05.14
-http://www.sogang.ac.kr/front/boardview.do?pkid=528011&currentPage=11&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 행정연구원 채용 공고(~5/23) || 2021.05.14
+http://www.sogang.ac.kr/front/boardview.do?pkid=528011&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 행정연구원 채용 공고(~5/23) || 2021.05.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=528009&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제팀] 2022-2023 Harvard-Yenching Institute 방문학자 (서강대 전임교원 대상) 모집 안내 || 2021.05.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=528008&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2021 이냐시오의 해 || 2021.05.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=527956&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [곤자가 국제학사] 2021학년도 여름방학 사생 모집공고(현 사생 연장 거주 포함) || 2021.05.11
@@ -202,7 +204,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=527791&currentPage=12&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=527687&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [이공계열, 지식융합미디어 학부생 대상] 총장과의 대화 안내 (비대면 온라인) || 2021.04.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=527685&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 행정연구원 채용 공고(~5/9) || 2021.04.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=527684&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [바이오사업단] 제13회 바이오기술투자분석사 2급 자격증 대비 교육 및 시험 안내 || 2021.04.28
-http://www.sogang.ac.kr/front/boardview.do?pkid=527670&currentPage=12&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처] "나의 한 줄이 서강이 됩니다" (정문 현수막 프로젝트) || 2021.04.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=527670&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대외교류처] "나의 한 줄이 서강이 됩니다" (정문 현수막 프로젝트) || 2021.04.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=527667&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [인문사회계열학부생 대상] 총장과의 대화 안내 (비대면 온라인) || 2021.04.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=527650&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원TFT] 비대면 실시간 강의실 및 녹음/녹화 스튜디오 영상자료 안내 || 2021.04.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=527625&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 제5회 국제학생 전용 글로벌 알바트로스 자기설계 로드맵전 진행 안내 || 2021.04.26
@@ -217,7 +219,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=527427&currentPage=13&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=527424&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 행정연구원 채용 공고(~4/25) || 2021.04.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=527423&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원TFT] ZOOM 활용 비대면 시험 감독/응시 영상 가이드 안내 || 2021.04.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=527392&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [기술경영전문대학원] 행정연구원 채용 공고 || 2021.04.12
-http://www.sogang.ac.kr/front/boardview.do?pkid=527388&currentPage=13&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 2021 우수 창업 아이디어 발굴/지원 공고 || 2021.04.12
+http://www.sogang.ac.kr/front/boardview.do?pkid=527388&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 2021 우수 창업 아이디어 발굴/지원 공고 || 2021.04.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=527384&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 2021 세븐업플러스 멘토링 프로그램 참가자 모집 || 2021.04.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=527383&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [글쓰기센터] 학술적 글쓰기 및 국제학생 글쓰기 집중지원 프로그램 운영 안내 || 2021.04.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=527382&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원TFT] 학습자를 위한 ZOOM 활용 비대면 시험 응시 가이드라인(축약본) || 2021.04.12
@@ -232,7 +234,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=527311&currentPage=14&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=527308&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 소방훈련으로 인한 소방차 진입 안내 || 2021.04.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=527210&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [법학연구소] 『서강법률논총』 제10권 제2호 원고모집 || 2021.04.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=527195&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2021 파스카 성삼일 전례 (온라인) 안내 || 2021.03.31
-http://www.sogang.ac.kr/front/boardview.do?pkid=527188&currentPage=14&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 입주기업 모집 공고 || 2021.03.31
+http://www.sogang.ac.kr/front/boardview.do?pkid=527188&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 입주기업 모집 공고 || 2021.03.31
 http://www.sogang.ac.kr/front/boardview.do?pkid=527119&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [원격교육지원 TFT] 비대면 실시간 수업 중 외부인 차단기능 매뉴얼 제공 안내 || 2021.03.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=527117&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [일반대학원] 행정연구원 채용 공고 || 2021.03.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=527101&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 제10회 교양교과제안전 안내 || 2021.03.25
@@ -247,7 +249,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526971&currentPage=15&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=526970&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 아담샬관 승강기 운행 재개 안내 || 2021.03.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=526932&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 2021년 캠퍼스타운 창업팀 선발 경진대회 모집공고 || 2021.03.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=526915&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2021학년도 1학기 학생 세례준비반 모집 || 2021.03.10
-http://www.sogang.ac.kr/front/boardview.do?pkid=526909&currentPage=15&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] ﻿2021년 1학기 미사 안내 || 2021.03.10
+http://www.sogang.ac.kr/front/boardview.do?pkid=526909&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] ﻿2021년 1학기 미사 안내 || 2021.03.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=526859&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 2021-1학기 서강 K-MOOC수강안내 || 2021.03.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=526851&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제팀] 2021학년도 9월 입학 외국인전형 공동 입학설명회 개최 안내 || 2021.03.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=526813&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2021학년도 1학기 개강미사 안내 || 2021.03.05
@@ -262,7 +264,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526594&currentPage=16&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=526580&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 입주기업 모집 공고 || 2021.02.22
 http://www.sogang.ac.kr/front/boardview.do?pkid=526579&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 존 메이스 신부님(제5대총장) 추모미사 안내 || 2021.02.22
 http://www.sogang.ac.kr/front/boardview.do?pkid=526550&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 2021-1학기 국제학생 신입생 대상 수강신청 관련 집중 상담 진행 || 2021.02.22
-http://www.sogang.ac.kr/front/boardview.do?pkid=526503&currentPage=16&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [주차] 2021학년도 1학기 정기주차 신청안내(일반) || 2021.02.17
+http://www.sogang.ac.kr/front/boardview.do?pkid=526503&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [주차] 2021학년도 1학기 정기주차 신청안내(일반) || 2021.02.17
 http://www.sogang.ac.kr/front/boardview.do?pkid=526502&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [주차] 2021학년도 1학기 정기주차 신청안내 (교직원) || 2021.02.17
 http://www.sogang.ac.kr/front/boardview.do?pkid=526501&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [주차] 서강대학교 주차 요금 안내 (2021-1학기) || 2021.02.17
 http://www.sogang.ac.kr/front/boardview.do?pkid=526492&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2월 17일 (수) 재의수요일 미사 안내 || 2021.02.16
@@ -277,7 +279,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526364&currentPage=17&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=526358&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [장애학생지원센터] 2021-1학기 장애대학생 교육지원인력(구 '도우미')모집 공고 || 2021.02.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=526303&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [바이오사업단] 제15회 바이오기술투자 기본과정 교육생 모집 || 2021.01.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=526299&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터]서강지식나눔페스티벌 안내(학생설문참여)(~2/3) || 2021.01.28
-http://www.sogang.ac.kr/front/boardview.do?pkid=526296&currentPage=17&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터]국제학생 대상 교양 사전 접수 "1학기 공존의 시대와 세계시민교육" 교과 || 2021.01.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=526296&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터]국제학생 대상 교양 사전 접수 "1학기 공존의 시대와 세계시민교육" 교과 || 2021.01.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=526288&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [작업공지] 네트워크 점검작업 및 데이터베이스 구성 변경 작업에 따른 교내 서비스 중단 안내 || 2021.01.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=526284&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [정보통신원] 강의실 멀티미디어 기자재 교체 공사 안내 || 2021.01.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=526273&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [입학처] 대학원생 TA조교 모집 || 2021.01.26
@@ -292,4 +294,18 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526069&currentPage=18&searchFiel
 http://www.sogang.ac.kr/front/boardview.do?pkid=526051&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [바이오사업단] 제12회 바이오기술투자분석사 자격대비 교육 및 시험 안내 || 2021.01.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=526050&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대학혁신추진단] 대학혁신지원사업 신촌지역 4개 대학 연합 성과포럼 안내 || 2021.01.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=526017&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제문화교육원] 계약직원 채용 공고 || 2021.01.04
-http://www.sogang.ac.kr/front/boardview.do?pkid=525948&currentPage=18&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 2021년 소방시설 종합정밀점검 실시 안내 || 2020.12.30
+http://www.sogang.ac.kr/front/boardview.do?pkid=525948&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 2021년 소방시설 종합정밀점검 실시 안내 || 2020.12.30
+http://www.sogang.ac.kr/front/boardview.do?pkid=525937&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [관재시설팀] 한파주의보 발령에 따른 피해 예방 유의사항 || 2020.12.30
+http://www.sogang.ac.kr/front/boardview.do?pkid=525934&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [총동문회] 총동문회·서강동문장학회 사무국 신입사원 채용공고(~1/6) || 2020.12.29
+http://www.sogang.ac.kr/front/boardview.do?pkid=525922&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [서강비즈니스센터] 서강 리더스 투자 브릿지(IR) 참여팀 모집 || 2020.12.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=525916&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [법학연구소] 『서강법률논총』 제10권 제1호 원고모집 연장 안내 || 2020.12.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=525914&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 2021-1학기 서강-경기꿈의대학 교강사 모집 공고 || 2020.12.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=525911&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 방학 중 '주일미사(온라인) 없음' 공지 || 2020.12.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=525889&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [정보통신원] 데이터베이스 구성 변경 작업에 따른 교내 서비스 중단 안내 || 2020.12.24
+http://www.sogang.ac.kr/front/boardview.do?pkid=525877&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [대학혁신추진단] 대학혁신지원사업 프로그램 참여 후기 공모전 결과 안내 || 2020.12.24
+http://www.sogang.ac.kr/front/boardview.do?pkid=525876&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교목처] 2020 성탄 밤미사 취소 안내 (성탄 메시지) || 2020.12.24
+http://www.sogang.ac.kr/front/boardview.do?pkid=525869&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [국제학생교육센터] 제4회 국제학생 전용 글로벌 알바트로스 자기설계 로드맵전 최종 수상작 선정 || 2020.12.24
+http://www.sogang.ac.kr/front/boardview.do?pkid=525860&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [발전홍보팀] 제21기 서강이음 모집 || 2020.12.23
+http://www.sogang.ac.kr/front/boardview.do?pkid=525856&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [일반대학원] 2021학년도 대학원 전기 일반3차전형/외국인전형(추가전형) 입시일정 안내 || 2020.12.23
+http://www.sogang.ac.kr/front/boardview.do?pkid=525854&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [교수학습센터] 20-동계 스터디그룹 모집 || 2020.12.23
+http://www.sogang.ac.kr/front/boardview.do?pkid=525734&currentPage=19&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=1&searchLowItem=ALL&searchValue= || [전인교육원] 2021학년도 1학기 인성교육센터 대우교수 초빙 공고 || 2020.12.17
