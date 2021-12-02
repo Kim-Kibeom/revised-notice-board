@@ -1,7 +1,7 @@
 http://www.sogang.ac.kr/front/boardview.do?pkid=531131&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 동계학기 수강신청과목 담아놓기 경쟁률 공지 || 2021.11.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=531050&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 비대면수업 개방강의실 운영 변경 안내 || 2021.11.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=531041&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 기말시험 안내 || 2021.11.22
-http://www.sogang.ac.kr/front/boardview.do?pkid=530791&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청] 2021학년도 동계 계절학기 개설교과목 변경사항 안내(수정 2021.11.23. 17시 기준) || 2021.11.10
+http://www.sogang.ac.kr/front/boardview.do?pkid=530791&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청] 2021학년도 동계 계절학기 개설교과목 변경사항 안내(수정 2021.12. 2일 15시 기준) || 2021.11.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=530790&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 동계 계절학기 수업 운영 안내 || 2021.11.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=530676&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정(안) 사전 공고 || 2021.11.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=530525&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2학기 기말시험 및 겨울 계절학기 성적평가 방식 변경 안내 || 2021.10.28
