@@ -1,3 +1,4 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=531265&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 5일)에 따른 후속 조치 안내 || 2021.12.05
 http://www.sogang.ac.kr/front/boardview.do?pkid=531263&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 4일)에 따른 후속 조치 안내 || 2021.12.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=531239&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 2일)에 따른 후속 조치 안내 || 2021.12.02
 http://www.sogang.ac.kr/front/boardview.do?pkid=531162&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(11월 29일)에 따른 후속 조치 안내 || 2021.11.29
