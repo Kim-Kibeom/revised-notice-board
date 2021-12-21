@@ -1,3 +1,4 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=531510&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 21일)에 따른 후속 조치 안내 || 2021.12.21
 http://www.sogang.ac.kr/front/boardview.do?pkid=531375&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 10일, 12월 13일)에 따른 후속 조치 안내 || 2021.12.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=531349&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 9일)에 따른 후속 조치 안내(추가) || 2021.12.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=531348&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 2021-2 도서관 이용 안내 [변경_방역패스 적용] / 2021 FALL SEM Library Hours [revised_QP required] || 2021.12.09
