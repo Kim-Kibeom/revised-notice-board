@@ -1,6 +1,5 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=531537&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 23일)에 따른 후속 조치 안내 || 2021.12.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=531510&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 21일)에 따른 후속 조치 안내 || 2021.12.21
-http://www.sogang.ac.kr/front/boardview.do?pkid=531375&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 10일, 12월 13일)에 따른 후속 조치 안내 || 2021.12.13
-http://www.sogang.ac.kr/front/boardview.do?pkid=531349&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 9일)에 따른 후속 조치 안내(추가) || 2021.12.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=531348&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 2021-2 도서관 이용 안내 [변경_방역패스 적용] / 2021 FALL SEM Library Hours [revised_QP required] || 2021.12.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=530648&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 출입통제 방식 변경 안내 || 2021.11.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=530187&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 서강 가족 여러분께 드리는 글(President’s Message to Members of the Sogang Community) || 2021.10.07
@@ -8,6 +7,8 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529647&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=529583&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 학교 출입통제 재개 안내 || 2021.09.01
 http://www.sogang.ac.kr/front/boardview.do?pkid=527096&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 건물별 발열체크 및 전자출입명부 등록 안내(Notice on Body Temperature Check, QR Code Check-in) || 2021.03.25
 http://www.sogang.ac.kr/front/boardview.do?pkid=526634&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 자가진단시스템 접속 및 제출 안내(Guidelines for Self-Assessment Questionnaire) || 2021.02.25
+http://www.sogang.ac.kr/front/boardview.do?pkid=531375&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 10일, 12월 13일)에 따른 후속 조치 안내 || 2021.12.13
+http://www.sogang.ac.kr/front/boardview.do?pkid=531349&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 9일)에 따른 후속 조치 안내(추가) || 2021.12.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=531272&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 4일)에 따른 후속 조치 안내 || 2021.12.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=531270&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 5일)에 따른 후속 조치 안내 || 2021.12.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=531265&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(12월 5일)에 따른 후속 조치 안내 || 2021.12.05
@@ -21,8 +22,8 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=530733&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=530551&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 후문 출입방식 변경에 관한 건 || 2021.10.29
 http://www.sogang.ac.kr/front/boardview.do?pkid=530509&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(10월 27일)에 따른 후속 조치 안내(추가) || 2021.10.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=530196&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(10월 7일)에 따른 후속 조치 안내 || 2021.10.08
-http://www.sogang.ac.kr/front/boardview.do?pkid=530026&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(9월 28일)에 따른 후속 조치 안내 || 2021.09.28
-http://www.sogang.ac.kr/front/boardview.do?pkid=530012&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 코로나19 예방접종 사전 예약 및 접종기간 안내 || 2021.09.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=530026&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(9월 28일)에 따른 후속 조치 안내 || 2021.09.28
+http://www.sogang.ac.kr/front/boardview.do?pkid=530012&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 코로나19 예방접종 사전 예약 및 접종기간 안내 || 2021.09.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=529967&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(9월 24일)에 따른 후속 조치 안내: T관 폐쇄 || 2021.09.24
 http://www.sogang.ac.kr/front/boardview.do?pkid=529923&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(9월 20일)에 따른 후속 조치 안내 || 2021.09.20
 http://www.sogang.ac.kr/front/boardview.do?pkid=529902&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(9월 17일)에 따른 후속 조치 안내: R관 8층 폐쇄 || 2021.09.17
@@ -36,8 +37,8 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=529089&currentPage=2&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=528980&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(7월 27일)에 따른 후속 조치 안내 || 2021.07.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=528931&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(7월 21일)에 따른 후속 조치 안내: 본관 폐쇄(종합봉사실 포함) || 2021.07.21
 http://www.sogang.ac.kr/front/boardview.do?pkid=528890&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(7월 16일)에 따른 후속 조치 안내: GA관 폐쇄 || 2021.07.16
-http://www.sogang.ac.kr/front/boardview.do?pkid=528889&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 하계 집중휴무기간 코로나 확진 발생 시 대응방안 안내 || 2021.07.16
-http://www.sogang.ac.kr/front/boardview.do?pkid=528869&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] ﻿수도권 사회적 거리두기 4단계 적용 안내 || 2021.07.15
+http://www.sogang.ac.kr/front/boardview.do?pkid=528889&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 하계 집중휴무기간 코로나 확진 발생 시 대응방안 안내 || 2021.07.16
+http://www.sogang.ac.kr/front/boardview.do?pkid=528869&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] ﻿수도권 사회적 거리두기 4단계 적용 안내 || 2021.07.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=528833&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(7월 13일)에 따른 후속 조치 안내: GN관 폐쇄 || 2021.07.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=528722&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(7월 6일)에 따른 후속 조치 안내: R관 폐쇄 || 2021.07.06
 http://www.sogang.ac.kr/front/boardview.do?pkid=528663&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(7월 1일)에 따른 후속 조치 안내 || 2021.07.01
@@ -51,8 +52,8 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528182&currentPage=3&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=527793&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확산 방지를 위한 교육부 ‘집중방역기간’ 안내 || 2021.05.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=527690&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 후문 출입 및 캡스카드 관련 추가 안내 || 2021.04.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=527575&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [총동문회] 서강 동문 후문 출입카드 발급 안내 || 2021.04.23
-http://www.sogang.ac.kr/front/boardview.do?pkid=527454&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 후문 출입방법 변경 및 출입카드 발급 안내(Notice on Change in Rear Gate Entry Procedure, Access Card Issuance) || 2021.04.15
-http://www.sogang.ac.kr/front/boardview.do?pkid=527422&currentPage=3&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 수도권 사회적 거리두기 조정에 따른 방역 조치사항 안내 || 2021.04.13
+http://www.sogang.ac.kr/front/boardview.do?pkid=527454&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 후문 출입방법 변경 및 출입카드 발급 안내(Notice on Change in Rear Gate Entry Procedure, Access Card Issuance) || 2021.04.15
+http://www.sogang.ac.kr/front/boardview.do?pkid=527422&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 수도권 사회적 거리두기 조정에 따른 방역 조치사항 안내 || 2021.04.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=527349&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 학교 출입 통제에 대한 안내 || 2021.04.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=527248&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 4/3 추가 확진자 발생 안내: 학교 출입 전면 통제기간 단축 유지(~4/5) || 2021.04.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=527220&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 학교 출입 전면 통제기간 단축 안내(~4/5) || 2021.04.01
@@ -66,8 +67,8 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=526504&currentPage=4&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=526340&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 수도권 사회적 거리두기 조정에 따른 방역 조치사항 안내 || 2021.02.02
 http://www.sogang.ac.kr/front/boardview.do?pkid=526298&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 코로나바이러스감염증-19 대응지침 지자체용 개정 (9-5판) 안내 || 2021.01.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=526221&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 수도권 사회적 거리두기 조정에 따른 방역 조치사항 안내 || 2021.01.20
-http://www.sogang.ac.kr/front/boardview.do?pkid=526220&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 코로나 19 소독제 오·남용 방지 주의사항 알림 || 2021.01.20
-http://www.sogang.ac.kr/front/boardview.do?pkid=526139&currentPage=4&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 도서관 임시 휴관 안내  Temporary Closure of Library (1.14~17) || 2021.01.13
+http://www.sogang.ac.kr/front/boardview.do?pkid=526220&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 코로나 19 소독제 오·남용 방지 주의사항 알림 || 2021.01.20
+http://www.sogang.ac.kr/front/boardview.do?pkid=526139&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 도서관 임시 휴관 안내  Temporary Closure of Library (1.14~17) || 2021.01.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=526107&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 중앙도서관 임시 폐쇄 Temporary Closure of Library(1.11~13) || 2021.01.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=526106&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나-19 확진자 발생에 따른 도서관 폐쇄 조치 안내 || 2021.01.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=526039&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 수도권 사회적 거리두기 조정에 따른 방역 조치사항 안내 || 2021.01.06
@@ -81,5 +82,3 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=525453&currentPage=5&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=525452&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || [보건실] 수도권 사회적 거리두기 2.5단계 상향조정에 따른 조치사항 안내 || 2020.12.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=525431&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나 19 확진 판정 시 대처 안내 || 2020.12.08
 http://www.sogang.ac.kr/front/boardview.do?pkid=525389&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 기말시험기간 도서관 개관시간 연장(취소) || 2020.12.07
-http://www.sogang.ac.kr/front/boardview.do?pkid=525309&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || R관 임시폐쇄 공고 || 2020.12.06
-http://www.sogang.ac.kr/front/boardview.do?pkid=525151&currentPage=5&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 도서관 임시 휴관 안내(12.4금~6일) || 2020.11.27
