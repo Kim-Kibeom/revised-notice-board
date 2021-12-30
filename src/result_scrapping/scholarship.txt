@@ -1,3 +1,6 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=531672&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [국가] 22-1 푸른등대 기부장학생 선발(1/12 마감, 생활비 100~250만원) || 2021.12.30
+http://www.sogang.ac.kr/front/boardview.do?pkid=531671&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 성련장학재단 장학생 선발(1/14 마감, 등록금 전액) || 2021.12.30
+http://www.sogang.ac.kr/front/boardview.do?pkid=531670&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] KRX국민행복재단 장학생 선발(1/14 마감, 생활비 200만원) || 2021.12.30
 http://www.sogang.ac.kr/front/boardview.do?pkid=531613&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] MBK장학재단 장학생 선발(1/12 마감, 신입생, 4년 등록금 및 학업장려비) || 2021.12.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=531600&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 삼일장학회 장학생 선발(1/20 마감, 생활비 250만원) || 2021.12.27
 http://www.sogang.ac.kr/front/boardview.do?pkid=531518&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 우양재단 장학생 선발(1/14 마감, 학업장려금 및 등록금) || 2021.12.22
