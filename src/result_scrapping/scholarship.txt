@@ -1,6 +1,7 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=531761&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [학자금대출] 2022학년도 신입생군 학자금대출시 유의사항 안내 || 2022.01.05
 http://www.sogang.ac.kr/front/boardview.do?pkid=531728&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 용운장학재단 장학생 선발(2/11 마감, 신입생, 4년 등록금 350만원) || 2022.01.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=531713&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 한국지도자육성장학재단 장학생 선발(1/11 마감, 등록금 전액+학업보조비 50만원) || 2022.01.03
-http://www.sogang.ac.kr/front/boardview.do?pkid=531694&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [학자금 대출] 2022년 1학기 농촌출신대학생 학자금융자(무이자) 지원 안내 || 2022.01.03
+http://www.sogang.ac.kr/front/boardview.do?pkid=531694&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [학자금대출] 2022년 1학기 농촌출신대학생 학자금융자(무이자) 지원 안내 || 2022.01.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=531672&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [국가] 22-1 푸른등대 기부장학생 선발(1/12 마감, 생활비 100~250만원) || 2021.12.30
 http://www.sogang.ac.kr/front/boardview.do?pkid=531671&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 성련장학재단 장학생 선발(1/14 마감, 등록금 전액) || 2021.12.30
 http://www.sogang.ac.kr/front/boardview.do?pkid=531670&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] KRX국민행복재단 장학생 선발(1/14 마감, 생활비 200만원) || 2021.12.30
@@ -18,7 +19,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=531367&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=531365&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 재일한국인 장학생 선발 안내(2/4 마감, 생활비 연 300만원) || 2021.12.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=531294&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 소망교회 장학생 선발(1/13 마감, 등록금 300만원) || 2021.12.07
 http://www.sogang.ac.kr/front/boardview.do?pkid=531226&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] 협성문화재단 장학생 선발(1/10 마감, 등록금 및 학습보조금 50만원) || 2021.12.02
-http://www.sogang.ac.kr/front/boardview.do?pkid=531224&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [대출] 2022학년도 1학기 한국장학재단 ‘학자금대출’ 사전신청 안내 || 2021.12.02
+http://www.sogang.ac.kr/front/boardview.do?pkid=531224&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [학자금대출] 2022학년도 1학기 한국장학재단 ‘학자금대출’ 사전신청 안내 || 2021.12.02
 http://www.sogang.ac.kr/front/boardview.do?pkid=531223&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || (추가) [국가근로] 희망근로기관 9차 추가신청안내 || 2021.12.02
 http://www.sogang.ac.kr/front/boardview.do?pkid=531208&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [국가] 2021-2 국가장학금 지급 마감에 따른 오지급(미지급) 확인 요청 || 2021.12.02
 http://www.sogang.ac.kr/front/boardview.do?pkid=531204&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=141&searchLowItem=ALL&searchValue= || [교외] DB우수인재장학생 봉사단 동하리8기 모집(1/7 마감, 등록금 전액) || 2021.12.01
