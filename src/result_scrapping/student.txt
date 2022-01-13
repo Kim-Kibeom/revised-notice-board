@@ -1,3 +1,5 @@
+http://www.sogang.ac.kr/front/boardview.do?pkid=531866&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021학년도 2학기 성적 포함 성적증명서 발급 안내 || 2022.01.13
+http://www.sogang.ac.kr/front/boardview.do?pkid=531862&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 해외대학 학점인정 시스템 신청불가기간 안내 || 2022.01.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=531841&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청]2022학년도 1학기 학부 수강신청 안내 || 2022.01.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=531629&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [대학원] 2021학년도 동계 학부·대학원 연계과정 학생 선발 안내(성적증명서 제출 관련 사항 업데이트, 1.5(수)자) || 2021.12.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=531604&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부]★2022학년도 1학기 휴학 안내★ || 2021.12.28
@@ -22,7 +24,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528572&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=527453&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류] 교류대학별 공지관련 유의사항 || 2021.04.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=531850&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 부산대학교 학점교류 안내 || 2022.01.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=531824&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 한동대학교 학점교류 안내 || 2022.01.10
-http://www.sogang.ac.kr/front/boardview.do?pkid=531823&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 한국외국어대학교 학점교류 안내 || 2022.01.10
+http://www.sogang.ac.kr/front/boardview.do?pkid=531823&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2022학년도 1학기 한국외국어대학교 학점교류 안내 || 2022.01.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=531760&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정(안) 사전 공고 || 2022.01.05
 http://www.sogang.ac.kr/front/boardview.do?pkid=531612&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감] 2022학년도 1학기 서울대학교 학점교류 안내 || 2021.12.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=531428&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 학칙 개정 공고 || 2021.12.15
