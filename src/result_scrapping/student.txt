@@ -1,6 +1,6 @@
 http://www.sogang.ac.kr/front/boardview.do?pkid=531866&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 2021학년도 2학기 성적 포함 성적증명서 발급 안내 || 2022.01.13
 http://www.sogang.ac.kr/front/boardview.do?pkid=531862&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부] 해외대학 학점인정 시스템 신청불가기간 안내 || 2022.01.13
-http://www.sogang.ac.kr/front/boardview.do?pkid=531841&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청]2022학년도 1학기 학부 수강신청 안내 || 2022.01.11
+http://www.sogang.ac.kr/front/boardview.do?pkid=531841&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수강신청]2022학년도 1학기 학부 수강신청 안내(업데이트_0118) || 2022.01.11
 http://www.sogang.ac.kr/front/boardview.do?pkid=531629&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [대학원] 2021학년도 동계 학부·대학원 연계과정 학생 선발 안내(성적증명서 제출 관련 사항 업데이트, 1.5(수)자) || 2021.12.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=531604&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부]★2022학년도 1학기 휴학 안내★ || 2021.12.28
 http://www.sogang.ac.kr/front/boardview.do?pkid=531573&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [학부]★2022학년도 1학기 복학 안내★ || 2021.12.27
