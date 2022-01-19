@@ -24,7 +24,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=528572&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=527453&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류] 교류대학별 공지관련 유의사항 || 2021.04.15
 http://www.sogang.ac.kr/front/boardview.do?pkid=531886&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 성균관대학교 학점교류 안내 || 2022.01.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=531876&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 가톨릭대학교 학점교류 안내 || 2022.01.14
-http://www.sogang.ac.kr/front/boardview.do?pkid=531874&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 고려대학교 학점교류 안내 || 2022.01.14
+http://www.sogang.ac.kr/front/boardview.do?pkid=531874&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 고려대학교 학점교류 안내_수정20210119 || 2022.01.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=531850&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2022학년도 1학기 부산대학교 학점교류 안내 || 2022.01.12
 http://www.sogang.ac.kr/front/boardview.do?pkid=531824&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2022학년도 1학기 한동대학교 학점교류 안내 || 2022.01.10
 http://www.sogang.ac.kr/front/boardview.do?pkid=531823&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2022학년도 1학기 한국외국어대학교 학점교류 안내 || 2022.01.10
@@ -34,7 +34,7 @@ http://www.sogang.ac.kr/front/boardview.do?pkid=531428&currentPage=1&searchField
 http://www.sogang.ac.kr/front/boardview.do?pkid=531389&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021 동계 계절학기 수업 운영 변경 안내 || 2021.12.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=531347&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 2021학년도 동계 계절학기 개설과목 폐강 안내 || 2021.12.09
 http://www.sogang.ac.kr/front/boardview.do?pkid=531289&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 기말시험 비대면시험 강의실 안내(수정_20211216) || 2021.12.07
-http://www.sogang.ac.kr/front/boardview.do?pkid=531256&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류]2021학년도 동계학기 대구가톨릭대학교 학점교류 안내 || 2021.12.03
+http://www.sogang.ac.kr/front/boardview.do?pkid=531256&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [국내교류-마감]2021학년도 동계학기 대구가톨릭대학교 학점교류 안내 || 2021.12.03
 http://www.sogang.ac.kr/front/boardview.do?pkid=531131&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 동계학기 수강신청과목 담아놓기 경쟁률 공지 || 2021.11.26
 http://www.sogang.ac.kr/front/boardview.do?pkid=531050&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || [수업] 비대면수업 개방강의실 운영 변경 안내 || 2021.11.23
 http://www.sogang.ac.kr/front/boardview.do?pkid=531041&currentPage=2&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=2&searchLowItem=ALL&searchValue= || 2021학년도 2학기 기말시험 안내 || 2021.11.22
