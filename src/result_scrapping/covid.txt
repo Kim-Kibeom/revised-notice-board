@@ -1,4 +1,4 @@
-http://www.sogang.ac.kr/front/boardview.do?pkid=532025&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(1월 20일~1월 23일)에 따른 후속 조치 안내 || 2022.01.24
+http://www.sogang.ac.kr/front/boardview.do?pkid=532025&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(1월 20일~1월 22일)에 따른 후속 조치 안내 || 2022.01.24
 http://www.sogang.ac.kr/front/boardview.do?pkid=531873&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 코로나19 확진자 발생(1월 14일)에 따른 후속 조치 안내 || 2022.01.14
 http://www.sogang.ac.kr/front/boardview.do?pkid=530648&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 출입통제 방식 변경 안내 || 2021.11.04
 http://www.sogang.ac.kr/front/boardview.do?pkid=530187&currentPage=1&searchField=ALL&siteGubun=1&menuGubun=1&bbsConfigFK=362&searchLowItem=ALL&searchValue= || 서강 가족 여러분께 드리는 글(President’s Message to Members of the Sogang Community) || 2021.10.07
